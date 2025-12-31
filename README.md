@@ -164,7 +164,7 @@ npm run build
 ---
 
 ## 👨‍💻 Author
-Manan Bagadi — Frontend Developer Intern Assignment (PrimeTrade AI)
+Harsh Kabra — Frontend Developer Intern Assignment (PrimeTrade AI)
 
 ---
 
